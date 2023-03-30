@@ -1,0 +1,17 @@
+Para criar um jogo da velha em Java, você pode seguir os seguintes passos:
+
+Criar uma classe para representar o tabuleiro do jogo da velha. Esta classe pode ter uma matriz de 3x3 para representar as células do tabuleiro.
+
+Definir um método para imprimir o tabuleiro na tela.
+
+Criar uma classe para representar um jogador. Cada jogador deve ter um nome e um símbolo (X ou O).
+
+Criar um método para validar a jogada. Este método deve verificar se a célula selecionada pelo jogador está livre.
+
+Criar um método para realizar a jogada. Este método deve alterar o valor da célula selecionada pelo jogador com o símbolo do jogador.
+
+Criar um método para verificar se o jogo acabou. Este método deve verificar se algum jogador venceu ou se o jogo empatou.
+
+Criar um método para executar o jogo. Este método deve alternar entre os jogadores, solicitar a jogada de cada jogador e verificar se o jogo acabou.
+
+Aqui está um exemplo de código para implementar o jogo da velha em Java:
