@@ -1,10 +1,9 @@
-# Jogo da Velha em Java para ESTUDAR  os conceitos 
-de Algoritmos
+# Jogo da Velha em Java para ESTUDAR  os conceitos de Algoritmos
+
 
 #JOGO 
 
  `` voce `` para jogar contra a CPU:
-
 
 ## Link do Replit  PARA EXECUTAR .
 
