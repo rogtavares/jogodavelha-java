@@ -1,5 +1,13 @@
-# jogodavelha-java
-Após estudar Herança, Polimorfismo, Classes e Métodos Abstratos chegou a hora de colocarmos nossos conhecimentos em prática para fazer algo realmente útil e bacana: um jogo da velha.
+# Jogo da Velha em Java para ESTUDAR  os conceitos 
+de Algoritmos
+
+#JOGO 
+
+ `` voce `` para jogar contra a CPU:
 
 
-/
+## Link do Replit  PARA EXECUTAR .
+
+[https://replit.com/@Thomasda4/Jogo-da-Velha#Main.java](https://replit.com/@Thomasda4/Jogo-da-Velha#Main.java)
+
+---
